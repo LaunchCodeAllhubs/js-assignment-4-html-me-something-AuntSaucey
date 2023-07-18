@@ -1,1 +1,19 @@
 /* Write your CSS here! */
+p {
+    margin: 20px;
+    padding: 10px;
+}
+body {
+    margin: 8px;
+    display: block;
+}
+
+ header h1 {
+    color:red; 
+    text-align: center;
+}
+
+#testP.funParagraph {
+    color: green;
+}
+
